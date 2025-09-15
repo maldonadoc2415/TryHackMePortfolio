@@ -1,6 +1,7 @@
 # TryHackMe Progress
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4099526" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/camaldonado.png" alt="Your Image Badge" />
+
 
 
 
